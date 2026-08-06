@@ -1,0 +1,62 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the default "View My GitHub Profile" link in the sidebar.
+   Delete this rule if you want the link to show. */
+header p.view {
+  display: none;
+}
+
+/* Sidebar text */
+header p {
+  line-height: 1.5;
+}
+
+/* Section headings */
+section h2 {
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Paper entries */
+section p {
+  margin-bottom: 1.1em;
+}
+
+/* Borderless two-column CV tables */
+table.cv {
+  width: 100%;
+  margin: 0 0 1.2em 0;
+  border-collapse: collapse;
+}
+
+table.cv tr td {
+  border: none;
+  padding: 0.15em 1em 0.15em 0;
+  vertical-align: top;
+  background: none;
+}
+
+table.cv tr td.year {
+  width: 12em;
+  white-space: nowrap;
+  color: #555;
+}
+
+@media print, screen and (max-width: 720px) {
+  table.cv tr td,
+  table.cv tr td.year {
+    display: block;
+    width: auto;
+    white-space: normal;
+    padding-right: 0;
+  }
+  table.cv tr td.year {
+    font-weight: bold;
+    padding-top: 0.6em;
+  }
+}
