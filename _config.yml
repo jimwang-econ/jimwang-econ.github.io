@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+
+title: Jiming Wang
+
+# Profile photo: upload one to /images/ and uncomment the next line.
+# logo: /images/profile.jpg
+
+description: >-
+  Ph.D. Candidate in Economics<br>
+  The Pennsylvania State University<br><br>
+  <a href="/cv/">CV</a> |
+  <a href="/files/JW_CV.pdf">CV (PDF)</a> |
+  <a href="mailto:jimwang@psu.edu">Email</a>
+
+show_downloads: false
+
+# Do not build these into the site
+exclude:
+  - README.md
