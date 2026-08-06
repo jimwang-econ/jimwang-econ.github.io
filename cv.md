@@ -28,7 +28,7 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 
 ## Working Papers
 
-**[Spatial Heterogeneity in Externalities and Private Investment in EV Charging Infrastructure](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQAtpv8I-lq1TpqwwG0az6RuAdr2EuLbJ0OaASUlXmCSGZ4?e=UI9fNk)**<br>
+**[Spatial Heterogeneity in Externalities and Private Investment in EV Charging Infrastructure]()**<br>
 *Job Market Paper, with Jianwei Xing*
 
 **[Heterogeneity of Indirect Network Effects: Empirical Analysis of the Chinese Electric Vehicle Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672874)**<br>
@@ -37,10 +37,10 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 
 ## Work in Progress
 
-**[Growth or Redistribution? The Business Effects of Public Infrastructure as a Local Amenity: Evidence from EV Charging Stations in Kansas City](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQBX531RZwyKTZmlSxdR3-WtAdDBMYOjUrwMOe0GsuVBvXI?e=CHUMUq)**<br>
+**[Growth or Redistribution? The Business Effects of Public Infrastructure as a Local Amenity: Evidence from EV Charging Stations in Kansas City]()**<br>
 *with Ruohao Zhang, Xibo Wan, Zhen Lei, and Junxian Tang*
 
-**[Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQBi3sUpJQHqT5OOazOxCHmYARFxmH2TyCnXl5FTgPd8fpA?e=i2gL4b)**<br>
+**[Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China]()**<br>
 *with Songrui Liu, Guangrong Ma, and Yaohong Zhao*
 
 ## Teaching Experience
