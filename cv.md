@@ -28,7 +28,7 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 
 ## Working Papers
 
-**[Spatial Heterogeneity in Externalities and Private Investment in EV Charging Infrastructure]()**<br>
+**Spatial Heterogeneity in Externalities and Private Investment in EV Charging Infrastructure**<br>
 *Job Market Paper, with Jianwei Xing*
 
 **[Heterogeneity of Indirect Network Effects: Empirical Analysis of the Chinese Electric Vehicle Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672874)**<br>
@@ -37,10 +37,10 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 
 ## Work in Progress
 
-**[Growth or Redistribution? The Business Effects of Public Infrastructure as a Local Amenity: Evidence from EV Charging Stations in Kansas City]()**<br>
+**Growth or Redistribution? The Business Effects of Public Infrastructure as a Local Amenity: Evidence from EV Charging Stations in Kansas City**<br>
 *with Ruohao Zhang, Xibo Wan, Zhen Lei, and Junxian Tang*
 
-**[Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China]()**<br>
+**Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China**<br>
 *with Songrui Liu, Guangrong Ma, and Yaohong Zhao*
 
 ## Teaching Experience
