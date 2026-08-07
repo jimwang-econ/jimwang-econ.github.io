@@ -31,9 +31,3 @@ Before Penn State, I received a B.S. in Mathematics and Physics from Tsinghua Un
 
 **Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China**<br>
 *with Songrui Liu, Guangrong Ma, and Yaohong Zhao*
-
-## Contact
-
-Department of Economics, The Pennsylvania State University<br>
-Kern Building, University Park, PA 16802<br>
-[jimwang@psu.edu](mailto:jimwang@psu.edu)
