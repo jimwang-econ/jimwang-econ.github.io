@@ -3,7 +3,7 @@ layout: default
 title: Jiming Wang
 ---
 
-Welcome! I am a Ph.D. candidate in Economics at The Pennsylvania State University, and I am on the 2026&ndash;2027 economics job market.
+Welcome! I am a Ph.D. candidate in Economics at the Pennsylvania State University, and I am on the 2026&ndash;2027 economics job market.
 
 My research is in empirical industrial organization, with applications to environmental economics. I use structural models to study investment in electric vehicle charging infrastructure and its downstream effects on EV adoption and visits to nearby businesses. A separate line of work studies the design of public procurement.
 
