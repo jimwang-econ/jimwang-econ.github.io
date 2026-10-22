@@ -22,23 +22,24 @@ Kern Building, University Park, PA 16802, USA<br>
 <tr><td class="year">Spring 2017</td><td>Visiting Undergraduate Student, <em>National University of Singapore</em></td></tr>
 </table>
 
-## Research Fields
+## Fields of Interest
 
-Industrial Organization, Environmental Economics, Applied Microeconomics
+Industrial Organization, Environmental Economics, Computational Economics, Applied Microeconomics
 
 ## Working Papers
 
-**Spatial Heterogeneity in Externalities and Private Investment in EV Charging Infrastructure**<br>
+**[Spatial Heterogeneity of Externalities in EV Charging Investments](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQAINQwYeVqtSY2Rhy4g5kJgAS7VFeIKcTX9mg9hPSAZBI0?e=WojVvm)**<br>
 *Job Market Paper, with Jianwei Xing*
 
 **[Heterogeneity of Indirect Network Effects: Empirical Analysis of the Chinese Electric Vehicle Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672874)**<br>
 *with Jianwei Xing, Junji Xiao, and Xiaodan Guo*<br>
 *Revise and Resubmit, Journal of the Association of Environmental and Resource Economists*
 
-## Work in Progress
+**[Growth or Redistribution? The Business Effects of EV Charging Infrastructure in Kansas City](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQCjF6AzPAibRIn5mEJM57QhAX-E7tLl2yClSQxTnw0PQOk?e=GRPfVA)**<br>
+*with Ruohao Zhang, Xibo Wan, Zhen Lei, and Junxian Tang*<br>
+*Under Review*
 
-**Growth or Redistribution? The Business Effects of Public Infrastructure as a Local Amenity: Evidence from EV Charging Stations in Kansas City**<br>
-*with Ruohao Zhang, Xibo Wan, Zhen Lei, and Junxian Tang*
+## Work in Progress
 
 **Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China**<br>
 *with Songrui Liu, Guangrong Ma, and Yaohong Zhao*
@@ -49,7 +50,7 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 
 <table class="cv">
 <tr><td class="year">Summer 2025 &amp; 2026</td><td>ECON 104: Introductory Macroeconomic Analysis and Policy (online)</td></tr>
-<tr><td class="year">Spring 2023</td><td>ECON 304: Intermediate Macroeconomic Analysis (in person)</td></tr>
+<tr><td class="year">Summer 2023</td><td>ECON 304: Intermediate Macroeconomic Analysis (in person)</td></tr>
 </table>
 
 *The Pennsylvania State University (Teaching Assistant)*
@@ -87,10 +88,11 @@ Industrial Organization, Environmental Economics, Applied Microeconomics
 ## Seminars and Conference Presentations
 
 <table class="cv">
-<tr><td class="year">2026</td><td>TDM &amp; IO Brownbag (Penn State); Camp Resources (scheduled); EARIE Rising Stars (scheduled); Urban Economics Association NA (scheduled)</td></tr>
-<tr><td class="year">2024</td><td>CES NA Annual Conference</td></tr>
-<tr><td class="year">2023</td><td>CCER Summer Institute</td></tr>
-<tr><td class="year">2022 &ndash; 2025</td><td>IO Brownbag (Penn State)</td></tr>
+<tr><td class="year">2027</td><td>Econometric Society North American Winter Meeting (Allied Social Science Associations Annual Meeting; Washington, DC; scheduled)</td></tr>
+<tr><td class="year">2026</td><td>Trade, Development, &amp; Macro Brownbag (Penn State); Industrial Organization Brownbag (Penn State); Camp Resources XXXII (Asheville); European Association for Research in Industrial Economics Annual Conference (Rising Star Session; Mannheim, Germany); Urban Economics Association North American Meeting (Chicago); Economics of EV Charging Workshop (Harvard; scheduled)</td></tr>
+<tr><td class="year">2024</td><td>Chinese Economists Society North America Annual Conference (Lewisburg)</td></tr>
+<tr><td class="year">2023</td><td>China Center for Economic Research (CCER) Summer Institute (Chongli, China)</td></tr>
+<tr><td class="year">2022 &ndash; 2025</td><td>Industrial Organization Brownbag (Penn State)</td></tr>
 </table>
 
 ## Skills
