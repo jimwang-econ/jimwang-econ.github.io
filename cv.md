@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-[Download PDF](/files/JW_CV.pdf) &nbsp;|&nbsp; [Back to home](/)
+[Download PDF](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQBxKo3suUF6Q6MBF6S3VrgiARmWs_0qEoMU9qy3L6_sQco?e=e4DEfH){:target="_blank"} &nbsp;|&nbsp; [Back to home](/)
 
 Department of Economics, The Pennsylvania State University<br>
 Kern Building, University Park, PA 16802, USA<br>
