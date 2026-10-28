@@ -9,7 +9,7 @@ My research is in empirical industrial organization, with applications to enviro
 
 Before Penn State, I received a B.S. in Mathematics and Physics from Tsinghua University, a B.A. and an M.A. in Economics from Peking University.
 
-## Research Fields
+## Fields of Interest
 
 - Industrial Organization
 - Environmental Economics
