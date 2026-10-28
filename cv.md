@@ -26,6 +26,15 @@ Kern Building, University Park, PA 16802, USA<br>
 
 Industrial Organization, Environmental Economics, Computational Economics, Applied Microeconomics
 
+## References
+
+<table class="cv">
+<tr><td class="year">Mark J. Roberts</td><td>Professor Emeritus of Economics<br>The Pennsylvania State University<br><a href="mailto:mroberts@psu.edu">mroberts@psu.edu</a></td></tr>
+<tr><td class="year">Andres Aradillas-Lopez</td><td>Professor of Economics<br>The Pennsylvania State University<br><a href="mailto:aza12@psu.edu">aza12@psu.edu</a></td></tr>
+<tr><td class="year">Paul L. E. Grieco</td><td>Professor of Economics<br>The Pennsylvania State University<br><a href="mailto:plg15@psu.edu">plg15@psu.edu</a></td></tr>
+<tr><td class="year">Kenneth L. Judd</td><td>Senior Fellow<br>Hoover Institution, Stanford University<br><a href="mailto:kennethjudd@mac.com">kennethjudd@mac.com</a></td></tr>
+</table>
+
 ## Working Papers
 
 **[Spatial Heterogeneity of Externalities in EV Charging Investments](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/jpw6255_psu_edu/IQAINQwYeVqtSY2Rhy4g5kJgAS7VFeIKcTX9mg9hPSAZBI0?e=WojVvm)**<br>
@@ -89,7 +98,7 @@ Industrial Organization, Environmental Economics, Computational Economics, Appli
 
 <table class="cv">
 <tr><td class="year">2027</td><td>Econometric Society North American Winter Meeting (Allied Social Science Associations Annual Meeting; Washington, DC; scheduled)</td></tr>
-<tr><td class="year">2026</td><td>Trade, Development, &amp; Macro Brownbag (Penn State); Industrial Organization Brownbag (Penn State); Camp Resources XXXII (Asheville); European Association for Research in Industrial Economics Annual Conference (Rising Star Session; Mannheim, Germany); Urban Economics Association North American Meeting (Chicago); Economics of EV Charging Workshop (Harvard; scheduled)</td></tr>
+<tr><td class="year">2026</td><td>Trade, Development, &amp; Macro Brownbag (Penn State); Industrial Organization Brownbag (Penn State); Camp Resources XXXII (Asheville); European Association for Research in Industrial Economics Annual Conference (Rising Star Session; Mannheim, Germany); Urban Economics Association North American Meeting (Chicago); Economics of EV Charging Workshop (Harvard); Applied Micro Seminar (Penn State); Initiative for Energy and Environmental Economics and Policy Seminar (Penn State; scheduled) </td></tr>
 <tr><td class="year">2024</td><td>Chinese Economists Society North America Annual Conference (Lewisburg)</td></tr>
 <tr><td class="year">2023</td><td>China Center for Economic Research (CCER) Summer Institute (Chongli, China)</td></tr>
 <tr><td class="year">2022 &ndash; 2025</td><td>Industrial Organization Brownbag (Penn State)</td></tr>
