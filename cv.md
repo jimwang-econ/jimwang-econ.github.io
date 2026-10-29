@@ -29,10 +29,10 @@ Industrial Organization, Environmental Economics, Computational Economics, Appli
 ## References
 
 <table class="cv">
-<tr><td class="year"><a href="https://sites.google.com/view/markroberts/" target="_blank">Mark J. Roberts</a></td><td>Professor Emeritus of Economics<br>The Pennsylvania State University<br><a href="mailto:mroberts@psu.edu">mroberts@psu.edu</a></td></tr>
-<tr><td class="year"><a href="https://aaradill.github.io/" target="_blank">Andres Aradillas-Lopez</a></td><td>Professor of Economics<br>The Pennsylvania State University<br><a href="mailto:aza12@psu.edu">aza12@psu.edu</a></td></tr>
-<tr><td class="year"><a href="https://paulgrieco.github.io/" target="_blank">Paul L. E. Grieco</a></td><td>Professor of Economics<br>The Pennsylvania State University<br><a href="mailto:plg15@psu.edu">plg15@psu.edu</a></td></tr>
-<tr><td class="year"><a href="https://kenjudd.org/" target="_blank">Kenneth L. Judd</a></td><td>Senior Fellow<br>Hoover Institution, Stanford University<br><a href="mailto:kennethjudd@mac.com">kennethjudd@mac.com</a></td></tr>
+<tr><td class="year"><a href="https://sites.google.com/view/markroberts/" target="_blank">Mark J. Roberts</a></td><td>The Pennsylvania State University<br><a href="mailto:mroberts@psu.edu">mroberts@psu.edu</a></td></tr>
+<tr><td class="year"><a href="https://aaradill.github.io/" target="_blank">Andres Aradillas-Lopez</a></td><td>The Pennsylvania State University<br><a href="mailto:aza12@psu.edu">aza12@psu.edu</a></td></tr>
+<tr><td class="year"><a href="https://paulgrieco.github.io/" target="_blank">Paul L. E. Grieco</a></td><td>The Pennsylvania State University<br><a href="mailto:plg15@psu.edu">plg15@psu.edu</a></td></tr>
+<tr><td class="year"><a href="https://kenjudd.org/" target="_blank">Kenneth L. Judd</a></td><td>Hoover Institution, Stanford University<br><a href="mailto:kennethjudd@mac.com">kennethjudd@mac.com</a></td></tr>
 </table>
 
 ## Working Papers
